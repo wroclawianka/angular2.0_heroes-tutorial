@@ -16,6 +16,7 @@ import { MessageService } from './message.service';
 import { AppRoutingModule } from './/app-routing.module';
 // import { HttpClientModule } from '@angular/common/http/src/module';
 import { HttpClient } from '@angular/common/http/src/client';
+import { HeroSearchComponent } from './hero-search/hero-search.component';
 
 @NgModule({
   imports: [
@@ -32,7 +33,8 @@ import { HttpClient } from '@angular/common/http/src/client';
     DashboardComponent,
     HeroesComponent,
     HeroDetailComponent,
-    MessagesComponent
+    MessagesComponent,
+    HeroSearchComponent
   ],
   providers: [ HeroService, MessageService ],
   bootstrap: [ AppComponent ]
