@@ -25,6 +25,8 @@ a {
 h3 {
     text-align: center;
     margin-bottom: 0;
+    font-size: xx-large;
+    padding: 30px;
 }
 
 h4 {
@@ -47,6 +49,16 @@ h4 {
     min-width: 120px;
     background-color: #607D8B;
     border-radius: 2px;
+}
+
+.module a {
+    color: #eee;
+    text-decoration: none;
+}
+
+.module:hover a {
+    color: #607D8B;
+    text-decoration: none;
 }
 
 .module:hover {
