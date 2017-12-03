@@ -32,4 +32,10 @@ export class HeroDetailComponent implements OnInit {
   goBack(): void {
     this.location.back();
   }
+
+  // changes heo name and naviigates back to the previos view
+  save(): void {
+    this.heroService.updateHero(this.hero)
+    .subscribe(() => this.goBack);
+  }
 }
