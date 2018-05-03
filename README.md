@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wroclawianka/javaScript-learning/master/angular.png" height="150px"/>
+</p>
+
 # Angular 2.0. - Heroes Tutorial
 
 [Heroes tutorial](https://angular.io/tutorial) from official Angular site done by myself due to self-learning purposes. 
