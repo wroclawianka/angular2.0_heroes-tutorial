@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wroclawianka/javaScript-learning/master/angular.png" height="150px"/>
+  <img src="https://raw.githubusercontent.com/wroclawianka/angular2.0_heroes-tutorial/master/angular.png" height="150px"/>
 </p>
 
 # Angular 2.0. - Heroes Tutorial
